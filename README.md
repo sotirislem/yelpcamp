@@ -1,5 +1,5 @@
 # YelpCamp
-This project was made during 'The Web Developer Bootcamp 2021' course attendance.
+This project was made during 'The Web Developer Bootcamp 2021' course attendance.\
 It uses Express - Node.js web application framework.
 
 ## Installation
