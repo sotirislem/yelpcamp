@@ -15,12 +15,12 @@ npm install
 
 Create a .env file and supply the required data as shown below:
 ```
-DB_URL					<== Your MongoDB url (example: mongodb://localhost:27017/yelp-camp)
-SEEDS_AUTHOR_ID			<== A user's User._id from MongoDB, in order to seed database with fake Campgrounds data and associate them with a particular user (use: node seeds/index.js)
+DB_URL                <== Your MongoDB url (example: mongodb://localhost:27017/yelp-camp)
+SEEDS_AUTHOR_ID       <== A user's User._id from MongoDB, in order to seed database with fake Campgrounds data and associate them with a particular user (use: node seeds/index.js)
 CLOUDINARY_CLOUD_NAME	<== Cloudinary account info
-CLOUDINARY_KEY			<== Cloudinary account info
-CLOUDINARY_SECRET		<== Cloudinary account info
-MAPBOX_TOKEN			<== Mapbox account info
+CLOUDINARY_KEY        <== Cloudinary account info
+CLOUDINARY_SECRET     <== Cloudinary account info
+MAPBOX_TOKEN          <== Mapbox account info
 ```
 
 ## Execution
